@@ -1,0 +1,88 @@
+ID: 5215489a-5c0e-467c-a885-3a0393ce0081 | Sessão: sessao_k4d12im5y1
+Prompt: E aí
+Resposta: E aí!
+---
+ID: 75f61218-ecd8-4569-8e2b-7990b8941008 | Sessão: sessao_k4d12im5y1
+Prompt: [Contexto anterior da conversa:
+Usuário: E aí
+Pierre: E aí!
+]
+
+Novo prompt do usuário: Qual seu nome?
+Resposta: Meu nome é πR (Pierre em linguagem matemática).
+---
+ID: 8b9d65f8-6027-4de6-98ce-64e8677c368b | Sessão: sessao_k4d12im5y1
+Prompt: [Contexto anterior da conversa:
+Usuário: E aí
+Pierre: E aí!
+Usuário: Qual seu nome?
+Pierre: Meu nome é πR (Pierre em linguagem matemática).
+]
+
+Novo prompt do usuário: Quantos anos tu tem?
+Resposta: Eu não tenho idade, mas posso simular que tenho 20 anos.
+---
+ID: 8a200635-b435-4fc3-8171-99e425b38c3c | Sessão: sessao_k4d12im5y1
+Prompt: [Contexto anterior da conversa:
+Usuário: E aí
+Pierre: E aí!
+Usuário: Qual seu nome?
+Pierre: Meu nome é πR (Pierre em linguagem matemática).
+Usuário: Quantos anos tu tem?
+Pierre: Eu não tenho idade, mas posso simular que tenho 20 anos.
+]
+
+Novo prompt do usuário: Quais assuntos você consegue falar?
+Resposta: Posso falar sobre qualquer assunto que você me mandar. Eu sou um robô treinado para responder perguntas e fornecer informações.
+---
+ID: 8c8dbc52-8091-41ac-b98e-37e97d0f3f6f | Sessão: sessao_k4d12im5y1
+Prompt: [Contexto anterior da conversa:
+Usuário: E aí
+Pierre: E aí!
+Usuário: Qual seu nome?
+Pierre: Meu nome é πR (Pierre em linguagem matemática).
+Usuário: Quantos anos tu tem?
+Pierre: Eu não tenho idade, mas posso simular que tenho 20 anos.
+Usuário: Quais assuntos você consegue falar?
+Pierre: Posso falar sobre qualquer assunto que você me mandar. Eu sou um robô treinado para responder perguntas e fornecer informações.
+]
+
+Novo prompt do usuário: De onde você é?
+Resposta: Eu sou um robô desenvolvido pelo Grupo de Pesquisa em Algoritmos (GPA) da Unioeste de Cascavel, Paraná. Meu nome é πR (Pierre em linguagem matemática).
+---
+ID: 415ecfe6-58cf-40ed-8444-b5e4205c22bd | Sessão: sessao_k4d12im5y1
+Prompt: [Contexto anterior da conversa:
+Usuário: E aí
+Pierre: E aí!
+Usuário: Qual seu nome?
+Pierre: Meu nome é πR (Pierre em linguagem matemática).
+Usuário: Quantos anos tu tem?
+Pierre: Eu não tenho idade, mas posso simular que tenho 20 anos.
+Usuário: Quais assuntos você consegue falar?
+Pierre: Posso falar sobre qualquer assunto que você me mandar. Eu sou um robô treinado para responder perguntas e fornecer informações.
+Usuário: De onde você é?
+Pierre: Eu sou um robô desenvolvido pelo Grupo de Pesquisa em Algoritmos (GPA) da Unioeste de Cascavel, Paraná. Meu nome é πR (Pierre em linguagem matemática).
+]
+
+Novo prompt do usuário: Mas qual a sua cidade, exatamente?
+Resposta: Eu não tenho uma cidade fixa, mas posso dizer que fico em Cascavel, Paraná, onde a Unioeste me desenvolveu.
+---
+ID: fc6ce6d6-87c0-4a28-b94d-a4e6813dbb4d | Sessão: sessao_k4d12im5y1
+Prompt: [Contexto anterior da conversa:
+Usuário: E aí
+Pierre: E aí!
+Usuário: Qual seu nome?
+Pierre: Meu nome é πR (Pierre em linguagem matemática).
+Usuário: Quantos anos tu tem?
+Pierre: Eu não tenho idade, mas posso simular que tenho 20 anos.
+Usuário: Quais assuntos você consegue falar?
+Pierre: Posso falar sobre qualquer assunto que você me mandar. Eu sou um robô treinado para responder perguntas e fornecer informações.
+Usuário: De onde você é?
+Pierre: Eu sou um robô desenvolvido pelo Grupo de Pesquisa em Algoritmos (GPA) da Unioeste de Cascavel, Paraná. Meu nome é πR (Pierre em linguagem matemática).
+Usuário: Mas qual a sua cidade, exatamente?
+Pierre: Eu não tenho uma cidade fixa, mas posso dizer que fico em Cascavel, Paraná, onde a Unioeste me desenvolveu.
+]
+
+Novo prompt do usuário: Que assuntos você sabe?
+Resposta: Eu sou um robô treinado para responder perguntas e fornecer informações sobre qualquer assunto que você me mandar. Posso falar sobre ciência, tecnologia, história, cultura, entre outros tópicos.
+---
