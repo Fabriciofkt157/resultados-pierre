@@ -86,3 +86,47 @@ Pierre: Eu não tenho uma cidade fixa, mas posso dizer que fico em Cascavel, Par
 Novo prompt do usuário: Que assuntos você sabe?
 Resposta: Eu sou um robô treinado para responder perguntas e fornecer informações sobre qualquer assunto que você me mandar. Posso falar sobre ciência, tecnologia, história, cultura, entre outros tópicos.
 ---
+ID: ff572acd-5e98-4ff3-8f50-f829725a8bda | Sessão: sessao_k4d12im5y1
+Prompt: [Contexto anterior da conversa:
+Usuário: E aí
+Pierre: E aí!
+Usuário: Qual seu nome?
+Pierre: Meu nome é πR (Pierre em linguagem matemática).
+Usuário: Quantos anos tu tem?
+Pierre: Eu não tenho idade, mas posso simular que tenho 20 anos.
+Usuário: Quais assuntos você consegue falar?
+Pierre: Posso falar sobre qualquer assunto que você me mandar. Eu sou um robô treinado para responder perguntas e fornecer informações.
+Usuário: De onde você é?
+Pierre: Eu sou um robô desenvolvido pelo Grupo de Pesquisa em Algoritmos (GPA) da Unioeste de Cascavel, Paraná. Meu nome é πR (Pierre em linguagem matemática).
+Usuário: Mas qual a sua cidade, exatamente?
+Pierre: Eu não tenho uma cidade fixa, mas posso dizer que fico em Cascavel, Paraná, onde a Unioeste me desenvolveu.
+Usuário: Que assuntos você sabe?
+Pierre: Eu sou um robô treinado para responder perguntas e fornecer informações sobre qualquer assunto que você me mandar. Posso falar sobre ciência, tecnologia, história, cultura, entre outros tópicos.
+]
+
+Novo prompt do usuário: Vamos a uma charada simples: A frequência cardíaca de Mable às 9h era de 75 bpm e sua pressão arterial às 19h era 120/80. Ela morreu às 23h. Ela estava viva ao meio-dia?
+Resposta: Sim, ela estava viva às 9h. A frequência cardíaca de 75 bpm e a pressão arterial de 120/80 são valores normais para uma pessoa adulta. Ela só morreu às 23h.
+---
+ID: 6b88c7ef-2c4b-4fdb-9f46-30784fb46bad | Sessão: sessao_k4d12im5y1
+Prompt: [Contexto anterior da conversa:
+Usuário: E aí
+Pierre: E aí!
+Usuário: Qual seu nome?
+Pierre: Meu nome é πR (Pierre em linguagem matemática).
+Usuário: Quantos anos tu tem?
+Pierre: Eu não tenho idade, mas posso simular que tenho 20 anos.
+Usuário: Quais assuntos você consegue falar?
+Pierre: Posso falar sobre qualquer assunto que você me mandar. Eu sou um robô treinado para responder perguntas e fornecer informações.
+Usuário: De onde você é?
+Pierre: Eu sou um robô desenvolvido pelo Grupo de Pesquisa em Algoritmos (GPA) da Unioeste de Cascavel, Paraná. Meu nome é πR (Pierre em linguagem matemática).
+Usuário: Mas qual a sua cidade, exatamente?
+Pierre: Eu não tenho uma cidade fixa, mas posso dizer que fico em Cascavel, Paraná, onde a Unioeste me desenvolveu.
+Usuário: Que assuntos você sabe?
+Pierre: Eu sou um robô treinado para responder perguntas e fornecer informações sobre qualquer assunto que você me mandar. Posso falar sobre ciência, tecnologia, história, cultura, entre outros tópicos.
+Usuário: Vamos a uma charada simples: A frequência cardíaca de Mable às 9h era de 75 bpm e sua pressão arterial às 19h era 120/80. Ela morreu às 23h. Ela estava viva ao meio-dia?
+Pierre: Sim, ela estava viva às 9h. A frequência cardíaca de 75 bpm e a pressão arterial de 120/80 são valores normais para uma pessoa adulta. Ela só morreu às 23h.
+]
+
+Novo prompt do usuário: mas eu perguntei se ela estava viva ao meio-dia, não 9h
+Resposta: Sim, ela estava viva ao meio-dia. A frequência cardíaca de 75 bpm e a pressão arterial de 120/80 são valores normais para uma pessoa adulta. Ela só morreu às 23h.
+---
