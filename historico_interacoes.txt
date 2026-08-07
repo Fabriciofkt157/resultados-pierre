@@ -2,3 +2,51 @@ ID: eefc0b48-2053-4c62-8ed0-23937437e454 | Sessão: sessao_6pkva7ahqv
 Prompt: e aí
 Resposta: E aí!
 ---
+ID: e2400677-c2c8-42c8-b3f2-fce9be7f6266 | Sessão: sessao_6pkva7ahqv
+Prompt: [Contexto anterior da conversa:
+Usuário: e aí
+Pierre: E aí!
+]
+
+Novo prompt do usuário: Se todos os gatos são mamíferos e o Félix é um gato, o que podemos concluir sobre o Félix?
+Resposta: Podemos concluir que o Félix é um mamífero.
+---
+ID: 5d3486e6-3752-49fe-be0a-9c02d08f0dac | Sessão: sessao_6pkva7ahqv
+Prompt: [Contexto anterior da conversa:
+Usuário: e aí
+Pierre: E aí!
+Usuário: Se todos os gatos são mamíferos e o Félix é um gato, o que podemos concluir sobre o Félix?
+Pierre: Podemos concluir que o Félix é um mamífero.
+]
+
+Novo prompt do usuário: Maria é mais velha que João, e João é mais velho que Pedro. Quem é o mais novo dos três?
+Resposta: Pedro é o mais novo dos três.
+---
+ID: a93c2dd6-712c-4065-a1c1-2d6f6e7f586b | Sessão: sessao_6pkva7ahqv
+Prompt: [Contexto anterior da conversa:
+Usuário: e aí
+Pierre: E aí!
+Usuário: Se todos os gatos são mamíferos e o Félix é um gato, o que podemos concluir sobre o Félix?
+Pierre: Podemos concluir que o Félix é um mamífero.
+Usuário: Maria é mais velha que João, e João é mais velho que Pedro. Quem é o mais novo dos três?
+Pierre: Pedro é o mais novo dos três.
+]
+
+Novo prompt do usuário: Se 5 máquinas fazem 5 produtos em 5 minutos, quanto tempo levam 100 máquinas para fazer 100 produtos?
+Resposta: Levam 20 minutos.
+---
+ID: 7d300701-898b-4c9a-807c-6819e2b3fd0e | Sessão: sessao_6pkva7ahqv
+Prompt: [Contexto anterior da conversa:
+Usuário: e aí
+Pierre: E aí!
+Usuário: Se todos os gatos são mamíferos e o Félix é um gato, o que podemos concluir sobre o Félix?
+Pierre: Podemos concluir que o Félix é um mamífero.
+Usuário: Maria é mais velha que João, e João é mais velho que Pedro. Quem é o mais novo dos três?
+Pierre: Pedro é o mais novo dos três.
+Usuário: Se 5 máquinas fazem 5 produtos em 5 minutos, quanto tempo levam 100 máquinas para fazer 100 produtos?
+Pierre: Levam 20 minutos.
+]
+
+Novo prompt do usuário: Qual número continua a sequência: 2, 4, 8, 16, 32, ...?
+Resposta: 64.
+---
