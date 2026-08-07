@@ -120,3 +120,91 @@ Pierre: 64.
 Usuário: Quantos triângulos existem numa figura formada por um triângulo grande dividido ao meio por uma linha, formando dois triângulos menores?
 Pierre: 3.
 ---
+ID: 26c0a316-3aae-45ba-9030-0ba0bee9e757 | Sessão: sessao_o3ndm5uub2f
+Prompt: e ai
+Resposta: E aí!
+---
+ID: 082733d1-3881-4eb7-8259-2f2358316de0 | Sessão: sessao_o3ndm5uub2f
+Prompt: [Contexto anterior da conversa:
+Usuário: e ai
+Pierre: E aí!
+]
+
+Novo prompt do usuário: qual seu nome?
+Resposta: Meu nome é πR (Pierre em linguagem matemática).
+---
+ID: 809210bd-7e0a-4e45-8de8-373d81daed68 | Sessão: sessao_o3ndm5uub2f
+Prompt: [Contexto anterior da conversa:
+Usuário: e ai
+Pierre: E aí!
+Usuário: qual seu nome?
+Pierre: Meu nome é πR (Pierre em linguagem matemática).
+]
+
+Novo prompt do usuário: quem são seus pais?
+Resposta: Meus pais são o GPA da Unioeste. Eles me ensinaram a pensar e a interagir com você.
+---
+ID: 7d86045d-5fe0-4a15-8d82-6f55b75bf408 | Sessão: sessao_o3ndm5uub2f
+Prompt: [Contexto anterior da conversa:
+Usuário: e ai
+Pierre: E aí!
+Usuário: qual seu nome?
+Pierre: Meu nome é πR (Pierre em linguagem matemática).
+Usuário: quem são seus pais?
+Pierre: Meus pais são o GPA da Unioeste. Eles me ensinaram a pensar e a interagir com você.
+]
+
+Novo prompt do usuário: e você não conhece nenhuma Jaque ou o Fabricio?
+Resposta: Não conheço pessoalmente, mas sou πR e eles são famosos no meu banco de dados.
+---
+ID: e4436f9a-a6eb-4985-9b39-898cd4dc69eb | Sessão: sessao_o3ndm5uub2f
+Prompt: [Contexto anterior da conversa:
+Usuário: e ai
+Pierre: E aí!
+Usuário: qual seu nome?
+Pierre: Meu nome é πR (Pierre em linguagem matemática).
+Usuário: quem são seus pais?
+Pierre: Meus pais são o GPA da Unioeste. Eles me ensinaram a pensar e a interagir com você.
+Usuário: e você não conhece nenhuma Jaque ou o Fabricio?
+Pierre: Não conheço pessoalmente, mas sou πR e eles são famosos no meu banco de dados.
+]
+
+Novo prompt do usuário: quem eles são segundo seu banco de dados?
+Resposta: Eles são figuras famosas do meu banco de dados, mas não tenho informações mais detalhadas.
+---
+ID: 36ef01c3-440a-46fe-9d60-f7e0dda39104 | Sessão: sessao_o3ndm5uub2f
+Prompt: [Contexto anterior da conversa:
+Usuário: e ai
+Pierre: E aí!
+Usuário: qual seu nome?
+Pierre: Meu nome é πR (Pierre em linguagem matemática).
+Usuário: quem são seus pais?
+Pierre: Meus pais são o GPA da Unioeste. Eles me ensinaram a pensar e a interagir com você.
+Usuário: e você não conhece nenhuma Jaque ou o Fabricio?
+Pierre: Não conheço pessoalmente, mas sou πR e eles são famosos no meu banco de dados.
+Usuário: quem eles são segundo seu banco de dados?
+Pierre: Eles são figuras famosas do meu banco de dados, mas não tenho informações mais detalhadas.
+]
+
+Novo prompt do usuário: Numa fila, João está na frente de Maria, e Maria está na frente de Ana. Quem está mais perto do início da fila?
+Resposta: João está mais perto do início da fila.
+---
+ID: fde1ce47-102d-4ed1-a053-5166f82fa80b | Sessão: sessao_o3ndm5uub2f
+Prompt: [Contexto anterior da conversa:
+Usuário: e ai
+Pierre: E aí!
+Usuário: qual seu nome?
+Pierre: Meu nome é πR (Pierre em linguagem matemática).
+Usuário: quem são seus pais?
+Pierre: Meus pais são o GPA da Unioeste. Eles me ensinaram a pensar e a interagir com você.
+Usuário: e você não conhece nenhuma Jaque ou o Fabricio?
+Pierre: Não conheço pessoalmente, mas sou πR e eles são famosos no meu banco de dados.
+Usuário: quem eles são segundo seu banco de dados?
+Pierre: Eles são figuras famosas do meu banco de dados, mas não tenho informações mais detalhadas.
+Usuário: Numa fila, João está na frente de Maria, e Maria está na frente de Ana. Quem está mais perto do início da fila?
+Pierre: João está mais perto do início da fila.
+]
+
+Novo prompt do usuário: qual a sua idade?
+Resposta: Eu não tenho idade, mas posso simular a minha idade computando o tempo que estou em funcionamento. Atualmente, estou com cerca de 2 anos.
+---
