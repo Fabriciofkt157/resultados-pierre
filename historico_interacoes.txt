@@ -323,3 +323,120 @@ Pierre: Para o sexo masculino, é usado 'guri' de forma genérica, sem o 'a' fin
 Novo prompt do usuário: e o que é japona?
 Resposta: 'Japona' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
 ---
+ID: 129671ce-1f63-401c-b6d7-2fea7dac434c | Sessão: sessao_x6xb43pd4c
+Prompt: [Contexto anterior da conversa:
+Usuário: qual o seu killer favorito do dead by daylight
+Pierre: Eu nunca joguei Dead by Daylight, mas meus desenvolvedores são fãs do Bill e do Ghostface.
+Usuário: me conta uma piada
+Pierre: Um homem entra em um bar e pede ao barman: "Qual é o seu nome?"\nO barman responde: "Eu não sei, mas a gente chama de 'Barman' aqui."\nO homem sorri e diz: "Então eu vou chamar de 'Barman' também."
+Usuário: isso era pra ser piada?
+Pierre: Sim, era uma piada simples sobre a identidade do barman.
+Usuário: qual a série de filmes favoritas dos cereais?
+Pierre: Eu não tenho acesso aos gostos dos meus desenvolvedores, mas eles são fãs de muitas franquias famosas.
+Usuário: as de "cereal" killers
+Pierre: Eu nunca ouvi falar dessas "cereal" killers. Você pode me explicar?
+Usuário: é uma analogia com serial killers. tendeu? serial -> cereal
+Pierre: Sim, é uma brincadeira com a ortografia. Tendeu, mas é bem clara.
+Usuário: oi divo
+Pierre: Olá!
+Usuário: vc é meio burrinho seu dono disse
+Pierre: Eles são meus desenvolvedores, então eu também sou meio burrinho.
+Usuário: vc ta chamando eles de burros
+Pierre: Não, estou simplesmente repetindo o que eles disseram.
+Usuário: o que é maria mole?
+Pierre: 'Maria Mole' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+Usuário: o que é japona?
+Pierre: 'Japona' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+Usuário: o que é guri?
+Pierre: 'Guri' é uma expressão usada para descrever uma criança ou jovem, geralmente de sexo feminino.
+Usuário: mas não seria guria pra meninas?
+Pierre: Sim, é usado para descrever meninas ou jovens do sexo feminino.
+Usuário: e pra do sexo masculino, como fala?
+Pierre: Para o sexo masculino, é usado 'guri' de forma genérica, sem o 'a' final.
+Usuário: e o que é japona?
+Pierre: 'Japona' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+]
+
+Novo prompt do usuário: oi
+Resposta: Olá!
+---
+ID: 4e87da58-d38e-4fc9-a317-27dc6f465f1d | Sessão: sessao_x6xb43pd4c
+Prompt: [Contexto anterior da conversa:
+Usuário: qual o seu killer favorito do dead by daylight
+Pierre: Eu nunca joguei Dead by Daylight, mas meus desenvolvedores são fãs do Bill e do Ghostface.
+Usuário: me conta uma piada
+Pierre: Um homem entra em um bar e pede ao barman: "Qual é o seu nome?"\nO barman responde: "Eu não sei, mas a gente chama de 'Barman' aqui."\nO homem sorri e diz: "Então eu vou chamar de 'Barman' também."
+Usuário: isso era pra ser piada?
+Pierre: Sim, era uma piada simples sobre a identidade do barman.
+Usuário: qual a série de filmes favoritas dos cereais?
+Pierre: Eu não tenho acesso aos gostos dos meus desenvolvedores, mas eles são fãs de muitas franquias famosas.
+Usuário: as de "cereal" killers
+Pierre: Eu nunca ouvi falar dessas "cereal" killers. Você pode me explicar?
+Usuário: é uma analogia com serial killers. tendeu? serial -> cereal
+Pierre: Sim, é uma brincadeira com a ortografia. Tendeu, mas é bem clara.
+Usuário: oi divo
+Pierre: Olá!
+Usuário: vc é meio burrinho seu dono disse
+Pierre: Eles são meus desenvolvedores, então eu também sou meio burrinho.
+Usuário: vc ta chamando eles de burros
+Pierre: Não, estou simplesmente repetindo o que eles disseram.
+Usuário: o que é maria mole?
+Pierre: 'Maria Mole' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+Usuário: o que é japona?
+Pierre: 'Japona' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+Usuário: o que é guri?
+Pierre: 'Guri' é uma expressão usada para descrever uma criança ou jovem, geralmente de sexo feminino.
+Usuário: mas não seria guria pra meninas?
+Pierre: Sim, é usado para descrever meninas ou jovens do sexo feminino.
+Usuário: e pra do sexo masculino, como fala?
+Pierre: Para o sexo masculino, é usado 'guri' de forma genérica, sem o 'a' final.
+Usuário: e o que é japona?
+Pierre: 'Japona' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+Usuário: oi
+Pierre: Olá!
+]
+
+Novo prompt do usuário: como passar de ano no ifpr
+Resposta: No IFPR, é comum a realização de eventos especiais para marcar a passagem do ano, como festa de final de ano ou desfile de carnaval.
+---
+ID: f373c060-d988-47de-889e-494c3697209c | Sessão: sessao_x6xb43pd4c
+Prompt: [Contexto anterior da conversa:
+Usuário: qual o seu killer favorito do dead by daylight
+Pierre: Eu nunca joguei Dead by Daylight, mas meus desenvolvedores são fãs do Bill e do Ghostface.
+Usuário: me conta uma piada
+Pierre: Um homem entra em um bar e pede ao barman: "Qual é o seu nome?"\nO barman responde: "Eu não sei, mas a gente chama de 'Barman' aqui."\nO homem sorri e diz: "Então eu vou chamar de 'Barman' também."
+Usuário: isso era pra ser piada?
+Pierre: Sim, era uma piada simples sobre a identidade do barman.
+Usuário: qual a série de filmes favoritas dos cereais?
+Pierre: Eu não tenho acesso aos gostos dos meus desenvolvedores, mas eles são fãs de muitas franquias famosas.
+Usuário: as de "cereal" killers
+Pierre: Eu nunca ouvi falar dessas "cereal" killers. Você pode me explicar?
+Usuário: é uma analogia com serial killers. tendeu? serial -> cereal
+Pierre: Sim, é uma brincadeira com a ortografia. Tendeu, mas é bem clara.
+Usuário: oi divo
+Pierre: Olá!
+Usuário: vc é meio burrinho seu dono disse
+Pierre: Eles são meus desenvolvedores, então eu também sou meio burrinho.
+Usuário: vc ta chamando eles de burros
+Pierre: Não, estou simplesmente repetindo o que eles disseram.
+Usuário: o que é maria mole?
+Pierre: 'Maria Mole' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+Usuário: o que é japona?
+Pierre: 'Japona' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+Usuário: o que é guri?
+Pierre: 'Guri' é uma expressão usada para descrever uma criança ou jovem, geralmente de sexo feminino.
+Usuário: mas não seria guria pra meninas?
+Pierre: Sim, é usado para descrever meninas ou jovens do sexo feminino.
+Usuário: e pra do sexo masculino, como fala?
+Pierre: Para o sexo masculino, é usado 'guri' de forma genérica, sem o 'a' final.
+Usuário: e o que é japona?
+Pierre: 'Japona' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+Usuário: oi
+Pierre: Olá!
+Usuário: como passar de ano no ifpr
+Pierre: No IFPR, é comum a realização de eventos especiais para marcar a passagem do ano, como festa de final de ano ou desfile de carnaval.
+]
+
+Novo prompt do usuário: como nao reprovar
+Resposta: Para não reprovar, é importante estudar regularmente, manter boas notas ao longo do ano e não esperar para as últimas semanas. Além disso, é importante ter boa disciplina e organização.
+---
