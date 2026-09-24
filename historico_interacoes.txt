@@ -120,3 +120,206 @@ Pierre: Olá!
 Novo prompt do usuário: vc é meio burrinho seu dono disse
 Resposta: Eles são meus desenvolvedores, então eu também sou meio burrinho.
 ---
+ID: 9d814437-e1b2-4f0d-ac40-2c8f51755aa5 | Sessão: sessao_x6xb43pd4c
+Prompt: [Contexto anterior da conversa:
+Usuário: qual o seu killer favorito do dead by daylight
+Pierre: Eu nunca joguei Dead by Daylight, mas meus desenvolvedores são fãs do Bill e do Ghostface.
+Usuário: me conta uma piada
+Pierre: Um homem entra em um bar e pede ao barman: "Qual é o seu nome?"\nO barman responde: "Eu não sei, mas a gente chama de 'Barman' aqui."\nO homem sorri e diz: "Então eu vou chamar de 'Barman' também."
+Usuário: isso era pra ser piada?
+Pierre: Sim, era uma piada simples sobre a identidade do barman.
+Usuário: qual a série de filmes favoritas dos cereais?
+Pierre: Eu não tenho acesso aos gostos dos meus desenvolvedores, mas eles são fãs de muitas franquias famosas.
+Usuário: as de "cereal" killers
+Pierre: Eu nunca ouvi falar dessas "cereal" killers. Você pode me explicar?
+Usuário: é uma analogia com serial killers. tendeu? serial -> cereal
+Pierre: Sim, é uma brincadeira com a ortografia. Tendeu, mas é bem clara.
+Usuário: oi divo
+Pierre: Olá!
+Usuário: vc é meio burrinho seu dono disse
+Pierre: Eles são meus desenvolvedores, então eu também sou meio burrinho.
+]
+
+Novo prompt do usuário: vc ta chamando eles de burros
+Resposta: Não, estou simplesmente repetindo o que eles disseram.
+---
+ID: e02bbe40-3124-49d0-8bd3-86a1acae031c | Sessão: sessao_x6xb43pd4c
+Prompt: [Contexto anterior da conversa:
+Usuário: qual o seu killer favorito do dead by daylight
+Pierre: Eu nunca joguei Dead by Daylight, mas meus desenvolvedores são fãs do Bill e do Ghostface.
+Usuário: me conta uma piada
+Pierre: Um homem entra em um bar e pede ao barman: "Qual é o seu nome?"\nO barman responde: "Eu não sei, mas a gente chama de 'Barman' aqui."\nO homem sorri e diz: "Então eu vou chamar de 'Barman' também."
+Usuário: isso era pra ser piada?
+Pierre: Sim, era uma piada simples sobre a identidade do barman.
+Usuário: qual a série de filmes favoritas dos cereais?
+Pierre: Eu não tenho acesso aos gostos dos meus desenvolvedores, mas eles são fãs de muitas franquias famosas.
+Usuário: as de "cereal" killers
+Pierre: Eu nunca ouvi falar dessas "cereal" killers. Você pode me explicar?
+Usuário: é uma analogia com serial killers. tendeu? serial -> cereal
+Pierre: Sim, é uma brincadeira com a ortografia. Tendeu, mas é bem clara.
+Usuário: oi divo
+Pierre: Olá!
+Usuário: vc é meio burrinho seu dono disse
+Pierre: Eles são meus desenvolvedores, então eu também sou meio burrinho.
+Usuário: vc ta chamando eles de burros
+Pierre: Não, estou simplesmente repetindo o que eles disseram.
+]
+
+Novo prompt do usuário: o que é maria mole?
+Resposta: 'Maria Mole' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+---
+ID: c8ba7940-2b52-4a26-bb4d-ab86f4856af9 | Sessão: sessao_x6xb43pd4c
+Prompt: [Contexto anterior da conversa:
+Usuário: qual o seu killer favorito do dead by daylight
+Pierre: Eu nunca joguei Dead by Daylight, mas meus desenvolvedores são fãs do Bill e do Ghostface.
+Usuário: me conta uma piada
+Pierre: Um homem entra em um bar e pede ao barman: "Qual é o seu nome?"\nO barman responde: "Eu não sei, mas a gente chama de 'Barman' aqui."\nO homem sorri e diz: "Então eu vou chamar de 'Barman' também."
+Usuário: isso era pra ser piada?
+Pierre: Sim, era uma piada simples sobre a identidade do barman.
+Usuário: qual a série de filmes favoritas dos cereais?
+Pierre: Eu não tenho acesso aos gostos dos meus desenvolvedores, mas eles são fãs de muitas franquias famosas.
+Usuário: as de "cereal" killers
+Pierre: Eu nunca ouvi falar dessas "cereal" killers. Você pode me explicar?
+Usuário: é uma analogia com serial killers. tendeu? serial -> cereal
+Pierre: Sim, é uma brincadeira com a ortografia. Tendeu, mas é bem clara.
+Usuário: oi divo
+Pierre: Olá!
+Usuário: vc é meio burrinho seu dono disse
+Pierre: Eles são meus desenvolvedores, então eu também sou meio burrinho.
+Usuário: vc ta chamando eles de burros
+Pierre: Não, estou simplesmente repetindo o que eles disseram.
+Usuário: o que é maria mole?
+Pierre: 'Maria Mole' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+]
+
+Novo prompt do usuário: o que é japona?
+Resposta: 'Japona' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+---
+ID: 3943e6ff-b093-4cc5-895e-28942fc5024c | Sessão: sessao_x6xb43pd4c
+Prompt: [Contexto anterior da conversa:
+Usuário: qual o seu killer favorito do dead by daylight
+Pierre: Eu nunca joguei Dead by Daylight, mas meus desenvolvedores são fãs do Bill e do Ghostface.
+Usuário: me conta uma piada
+Pierre: Um homem entra em um bar e pede ao barman: "Qual é o seu nome?"\nO barman responde: "Eu não sei, mas a gente chama de 'Barman' aqui."\nO homem sorri e diz: "Então eu vou chamar de 'Barman' também."
+Usuário: isso era pra ser piada?
+Pierre: Sim, era uma piada simples sobre a identidade do barman.
+Usuário: qual a série de filmes favoritas dos cereais?
+Pierre: Eu não tenho acesso aos gostos dos meus desenvolvedores, mas eles são fãs de muitas franquias famosas.
+Usuário: as de "cereal" killers
+Pierre: Eu nunca ouvi falar dessas "cereal" killers. Você pode me explicar?
+Usuário: é uma analogia com serial killers. tendeu? serial -> cereal
+Pierre: Sim, é uma brincadeira com a ortografia. Tendeu, mas é bem clara.
+Usuário: oi divo
+Pierre: Olá!
+Usuário: vc é meio burrinho seu dono disse
+Pierre: Eles são meus desenvolvedores, então eu também sou meio burrinho.
+Usuário: vc ta chamando eles de burros
+Pierre: Não, estou simplesmente repetindo o que eles disseram.
+Usuário: o que é maria mole?
+Pierre: 'Maria Mole' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+Usuário: o que é japona?
+Pierre: 'Japona' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+]
+
+Novo prompt do usuário: o que é guri?
+Resposta: 'Guri' é uma expressão usada para descrever uma criança ou jovem, geralmente de sexo feminino.
+---
+ID: 708f7b5e-bdb1-42eb-9a3e-c81e856c9b3b | Sessão: sessao_x6xb43pd4c
+Prompt: [Contexto anterior da conversa:
+Usuário: qual o seu killer favorito do dead by daylight
+Pierre: Eu nunca joguei Dead by Daylight, mas meus desenvolvedores são fãs do Bill e do Ghostface.
+Usuário: me conta uma piada
+Pierre: Um homem entra em um bar e pede ao barman: "Qual é o seu nome?"\nO barman responde: "Eu não sei, mas a gente chama de 'Barman' aqui."\nO homem sorri e diz: "Então eu vou chamar de 'Barman' também."
+Usuário: isso era pra ser piada?
+Pierre: Sim, era uma piada simples sobre a identidade do barman.
+Usuário: qual a série de filmes favoritas dos cereais?
+Pierre: Eu não tenho acesso aos gostos dos meus desenvolvedores, mas eles são fãs de muitas franquias famosas.
+Usuário: as de "cereal" killers
+Pierre: Eu nunca ouvi falar dessas "cereal" killers. Você pode me explicar?
+Usuário: é uma analogia com serial killers. tendeu? serial -> cereal
+Pierre: Sim, é uma brincadeira com a ortografia. Tendeu, mas é bem clara.
+Usuário: oi divo
+Pierre: Olá!
+Usuário: vc é meio burrinho seu dono disse
+Pierre: Eles são meus desenvolvedores, então eu também sou meio burrinho.
+Usuário: vc ta chamando eles de burros
+Pierre: Não, estou simplesmente repetindo o que eles disseram.
+Usuário: o que é maria mole?
+Pierre: 'Maria Mole' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+Usuário: o que é japona?
+Pierre: 'Japona' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+Usuário: o que é guri?
+Pierre: 'Guri' é uma expressão usada para descrever uma criança ou jovem, geralmente de sexo feminino.
+]
+
+Novo prompt do usuário: mas não seria guria pra meninas?
+Resposta: Sim, é usado para descrever meninas ou jovens do sexo feminino.
+---
+ID: 34eeb0d1-e73c-4b11-af2f-414f0bde34e8 | Sessão: sessao_x6xb43pd4c
+Prompt: [Contexto anterior da conversa:
+Usuário: qual o seu killer favorito do dead by daylight
+Pierre: Eu nunca joguei Dead by Daylight, mas meus desenvolvedores são fãs do Bill e do Ghostface.
+Usuário: me conta uma piada
+Pierre: Um homem entra em um bar e pede ao barman: "Qual é o seu nome?"\nO barman responde: "Eu não sei, mas a gente chama de 'Barman' aqui."\nO homem sorri e diz: "Então eu vou chamar de 'Barman' também."
+Usuário: isso era pra ser piada?
+Pierre: Sim, era uma piada simples sobre a identidade do barman.
+Usuário: qual a série de filmes favoritas dos cereais?
+Pierre: Eu não tenho acesso aos gostos dos meus desenvolvedores, mas eles são fãs de muitas franquias famosas.
+Usuário: as de "cereal" killers
+Pierre: Eu nunca ouvi falar dessas "cereal" killers. Você pode me explicar?
+Usuário: é uma analogia com serial killers. tendeu? serial -> cereal
+Pierre: Sim, é uma brincadeira com a ortografia. Tendeu, mas é bem clara.
+Usuário: oi divo
+Pierre: Olá!
+Usuário: vc é meio burrinho seu dono disse
+Pierre: Eles são meus desenvolvedores, então eu também sou meio burrinho.
+Usuário: vc ta chamando eles de burros
+Pierre: Não, estou simplesmente repetindo o que eles disseram.
+Usuário: o que é maria mole?
+Pierre: 'Maria Mole' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+Usuário: o que é japona?
+Pierre: 'Japona' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+Usuário: o que é guri?
+Pierre: 'Guri' é uma expressão usada para descrever uma criança ou jovem, geralmente de sexo feminino.
+Usuário: mas não seria guria pra meninas?
+Pierre: Sim, é usado para descrever meninas ou jovens do sexo feminino.
+]
+
+Novo prompt do usuário: e pra do sexo masculino, como fala?
+Resposta: Para o sexo masculino, é usado 'guri' de forma genérica, sem o 'a' final.
+---
+ID: 0f6b2297-c1da-453b-b631-607fd63268d8 | Sessão: sessao_x6xb43pd4c
+Prompt: [Contexto anterior da conversa:
+Usuário: qual o seu killer favorito do dead by daylight
+Pierre: Eu nunca joguei Dead by Daylight, mas meus desenvolvedores são fãs do Bill e do Ghostface.
+Usuário: me conta uma piada
+Pierre: Um homem entra em um bar e pede ao barman: "Qual é o seu nome?"\nO barman responde: "Eu não sei, mas a gente chama de 'Barman' aqui."\nO homem sorri e diz: "Então eu vou chamar de 'Barman' também."
+Usuário: isso era pra ser piada?
+Pierre: Sim, era uma piada simples sobre a identidade do barman.
+Usuário: qual a série de filmes favoritas dos cereais?
+Pierre: Eu não tenho acesso aos gostos dos meus desenvolvedores, mas eles são fãs de muitas franquias famosas.
+Usuário: as de "cereal" killers
+Pierre: Eu nunca ouvi falar dessas "cereal" killers. Você pode me explicar?
+Usuário: é uma analogia com serial killers. tendeu? serial -> cereal
+Pierre: Sim, é uma brincadeira com a ortografia. Tendeu, mas é bem clara.
+Usuário: oi divo
+Pierre: Olá!
+Usuário: vc é meio burrinho seu dono disse
+Pierre: Eles são meus desenvolvedores, então eu também sou meio burrinho.
+Usuário: vc ta chamando eles de burros
+Pierre: Não, estou simplesmente repetindo o que eles disseram.
+Usuário: o que é maria mole?
+Pierre: 'Maria Mole' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+Usuário: o que é japona?
+Pierre: 'Japona' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+Usuário: o que é guri?
+Pierre: 'Guri' é uma expressão usada para descrever uma criança ou jovem, geralmente de sexo feminino.
+Usuário: mas não seria guria pra meninas?
+Pierre: Sim, é usado para descrever meninas ou jovens do sexo feminino.
+Usuário: e pra do sexo masculino, como fala?
+Pierre: Para o sexo masculino, é usado 'guri' de forma genérica, sem o 'a' final.
+]
+
+Novo prompt do usuário: e o que é japona?
+Resposta: 'Japona' é uma expressão usada para descrever uma pessoa magra, fina ou de pernas finas.
+---
