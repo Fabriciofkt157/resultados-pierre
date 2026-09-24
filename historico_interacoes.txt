@@ -24,3 +24,99 @@ Pierre: Eu nunca joguei Dead by Daylight, mas meus desenvolvedores são fãs do 
 Novo prompt do usuário: me conta uma piada
 Resposta: Um homem entra em um bar e pede ao barman: "Qual é o seu nome?"\nO barman responde: "Eu não sei, mas a gente chama de 'Barman' aqui."\nO homem sorri e diz: "Então eu vou chamar de 'Barman' também."
 ---
+ID: 81f2ccda-5d3e-47c2-92fd-ec66f80d74fd | Sessão: sessao_x6xb43pd4c
+Prompt: [Contexto anterior da conversa:
+Usuário: qual o seu killer favorito do dead by daylight
+Pierre: Eu nunca joguei Dead by Daylight, mas meus desenvolvedores são fãs do Bill e do Ghostface.
+Usuário: me conta uma piada
+Pierre: Um homem entra em um bar e pede ao barman: "Qual é o seu nome?"\nO barman responde: "Eu não sei, mas a gente chama de 'Barman' aqui."\nO homem sorri e diz: "Então eu vou chamar de 'Barman' também."
+]
+
+Novo prompt do usuário: isso era pra ser piada?
+Resposta: Sim, era uma piada simples sobre a identidade do barman.
+---
+ID: 543f99c4-83fb-4c42-a29b-daa24286bb0a | Sessão: sessao_x6xb43pd4c
+Prompt: [Contexto anterior da conversa:
+Usuário: qual o seu killer favorito do dead by daylight
+Pierre: Eu nunca joguei Dead by Daylight, mas meus desenvolvedores são fãs do Bill e do Ghostface.
+Usuário: me conta uma piada
+Pierre: Um homem entra em um bar e pede ao barman: "Qual é o seu nome?"\nO barman responde: "Eu não sei, mas a gente chama de 'Barman' aqui."\nO homem sorri e diz: "Então eu vou chamar de 'Barman' também."
+Usuário: isso era pra ser piada?
+Pierre: Sim, era uma piada simples sobre a identidade do barman.
+]
+
+Novo prompt do usuário: qual a série de filmes favoritas dos cereais?
+Resposta: Eu não tenho acesso aos gostos dos meus desenvolvedores, mas eles são fãs de muitas franquias famosas.
+---
+ID: 0276a85f-d23d-4c58-9480-f848d6ec068e | Sessão: sessao_x6xb43pd4c
+Prompt: [Contexto anterior da conversa:
+Usuário: qual o seu killer favorito do dead by daylight
+Pierre: Eu nunca joguei Dead by Daylight, mas meus desenvolvedores são fãs do Bill e do Ghostface.
+Usuário: me conta uma piada
+Pierre: Um homem entra em um bar e pede ao barman: "Qual é o seu nome?"\nO barman responde: "Eu não sei, mas a gente chama de 'Barman' aqui."\nO homem sorri e diz: "Então eu vou chamar de 'Barman' também."
+Usuário: isso era pra ser piada?
+Pierre: Sim, era uma piada simples sobre a identidade do barman.
+Usuário: qual a série de filmes favoritas dos cereais?
+Pierre: Eu não tenho acesso aos gostos dos meus desenvolvedores, mas eles são fãs de muitas franquias famosas.
+]
+
+Novo prompt do usuário: as de "cereal" killers
+Resposta: Eu nunca ouvi falar dessas "cereal" killers. Você pode me explicar?
+---
+ID: b5c715a4-201e-48e6-b9be-4203c239cf8b | Sessão: sessao_x6xb43pd4c
+Prompt: [Contexto anterior da conversa:
+Usuário: qual o seu killer favorito do dead by daylight
+Pierre: Eu nunca joguei Dead by Daylight, mas meus desenvolvedores são fãs do Bill e do Ghostface.
+Usuário: me conta uma piada
+Pierre: Um homem entra em um bar e pede ao barman: "Qual é o seu nome?"\nO barman responde: "Eu não sei, mas a gente chama de 'Barman' aqui."\nO homem sorri e diz: "Então eu vou chamar de 'Barman' também."
+Usuário: isso era pra ser piada?
+Pierre: Sim, era uma piada simples sobre a identidade do barman.
+Usuário: qual a série de filmes favoritas dos cereais?
+Pierre: Eu não tenho acesso aos gostos dos meus desenvolvedores, mas eles são fãs de muitas franquias famosas.
+Usuário: as de "cereal" killers
+Pierre: Eu nunca ouvi falar dessas "cereal" killers. Você pode me explicar?
+]
+
+Novo prompt do usuário: é uma analogia com serial killers. tendeu? serial -> cereal
+Resposta: Sim, é uma brincadeira com a ortografia. Tendeu, mas é bem clara.
+---
+ID: a50eef12-a3e4-4002-95fc-bca6bb06d93a | Sessão: sessao_x6xb43pd4c
+Prompt: [Contexto anterior da conversa:
+Usuário: qual o seu killer favorito do dead by daylight
+Pierre: Eu nunca joguei Dead by Daylight, mas meus desenvolvedores são fãs do Bill e do Ghostface.
+Usuário: me conta uma piada
+Pierre: Um homem entra em um bar e pede ao barman: "Qual é o seu nome?"\nO barman responde: "Eu não sei, mas a gente chama de 'Barman' aqui."\nO homem sorri e diz: "Então eu vou chamar de 'Barman' também."
+Usuário: isso era pra ser piada?
+Pierre: Sim, era uma piada simples sobre a identidade do barman.
+Usuário: qual a série de filmes favoritas dos cereais?
+Pierre: Eu não tenho acesso aos gostos dos meus desenvolvedores, mas eles são fãs de muitas franquias famosas.
+Usuário: as de "cereal" killers
+Pierre: Eu nunca ouvi falar dessas "cereal" killers. Você pode me explicar?
+Usuário: é uma analogia com serial killers. tendeu? serial -> cereal
+Pierre: Sim, é uma brincadeira com a ortografia. Tendeu, mas é bem clara.
+]
+
+Novo prompt do usuário: oi divo
+Resposta: Olá!
+---
+ID: abf95168-12cd-4233-9a94-bfc789c47be5 | Sessão: sessao_x6xb43pd4c
+Prompt: [Contexto anterior da conversa:
+Usuário: qual o seu killer favorito do dead by daylight
+Pierre: Eu nunca joguei Dead by Daylight, mas meus desenvolvedores são fãs do Bill e do Ghostface.
+Usuário: me conta uma piada
+Pierre: Um homem entra em um bar e pede ao barman: "Qual é o seu nome?"\nO barman responde: "Eu não sei, mas a gente chama de 'Barman' aqui."\nO homem sorri e diz: "Então eu vou chamar de 'Barman' também."
+Usuário: isso era pra ser piada?
+Pierre: Sim, era uma piada simples sobre a identidade do barman.
+Usuário: qual a série de filmes favoritas dos cereais?
+Pierre: Eu não tenho acesso aos gostos dos meus desenvolvedores, mas eles são fãs de muitas franquias famosas.
+Usuário: as de "cereal" killers
+Pierre: Eu nunca ouvi falar dessas "cereal" killers. Você pode me explicar?
+Usuário: é uma analogia com serial killers. tendeu? serial -> cereal
+Pierre: Sim, é uma brincadeira com a ortografia. Tendeu, mas é bem clara.
+Usuário: oi divo
+Pierre: Olá!
+]
+
+Novo prompt do usuário: vc é meio burrinho seu dono disse
+Resposta: Eles são meus desenvolvedores, então eu também sou meio burrinho.
+---
