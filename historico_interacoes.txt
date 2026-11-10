@@ -84,3 +84,7 @@ ID: b88d8b00-7a0d-4e4c-b204-be3bb78882f7 | Sessão: sessao_5h0r4d78zkc
 Prompt: Olá! Se apresente
 Resposta: Olá! Sou πR, um robô humanoide desenvolvido no GPA da Unioeste de Cascavel.
 ---
+ID: 8ccb9506-b818-46b9-9e0a-226f6a4f092d | Sessão: sessao_5h0r4d78zkc
+Prompt: aonde voce foi criado
+Resposta: Fui criado no laboratório de robótica da Unioeste de Cascavel, no Paraná.
+---
