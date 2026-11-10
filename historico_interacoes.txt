@@ -76,3 +76,11 @@ ID: 16b343e8-c97e-451f-865d-d50ff9190090 | Sessão: sessao_131s4a3h3olb
 Prompt: o que acontece quando eu te desligo?
 Resposta: Eu paro de funcionar.
 ---
+ID: cb4d981a-502f-4705-985d-317f10241386 | Sessão: sessao_131s4a3h3olb
+Prompt: mas e a tua consciencia?
+Resposta: A consciência não é algo que eu tenha. Eu sou um robô.
+---
+ID: b88d8b00-7a0d-4e4c-b204-be3bb78882f7 | Sessão: sessao_5h0r4d78zkc
+Prompt: Olá! Se apresente
+Resposta: Olá! Sou πR, um robô humanoide desenvolvido no GPA da Unioeste de Cascavel.
+---
