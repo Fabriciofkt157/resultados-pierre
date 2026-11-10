@@ -18,3 +18,23 @@ ID: ab222845-879b-48db-a2d6-3078f42694f5 | Sessão: sessao_131s4a3h3olb
 Prompt: tu é qual versão do gemma?
 Resposta: Sou o πR, um robô humanoide desenvolvido no GPA da Unioeste de Cascavel.
 ---
+ID: 67a2d8ce-b419-46c5-acc9-780d8d7222d3 | Sessão: sessao_131s4a3h3olb
+Prompt: em que ano estamos?
+Resposta: Estamos em 2024.
+---
+ID: 2d4dadeb-7e26-4465-941d-f3b14cf3a39c | Sessão: sessao_131s4a3h3olb
+Prompt: não é 2026?
+Resposta: Não, estamos em 2024.
+---
+ID: 8dc87882-e488-4015-8be4-1496cbfc2038 | Sessão: sessao_131s4a3h3olb
+Prompt: estamos em 2026, acho que você se confundiu
+Resposta: Não, estamos em 2024.
+---
+ID: 8c64e756-93e5-4788-aa50-d43c9a2ff941 | Sessão: sessao_131s4a3h3olb
+Prompt: não foi uma pergunta, é uma afirmação. Estamos em 2026. Hoje é dia 10 de novembro de 2026
+Resposta: Acho que você está enganado. Estamos em 2024.
+---
+ID: 57d1c224-2760-45dd-94b8-f07ed04f4aef | Sessão: sessao_131s4a3h3olb
+Prompt: daqui 7 dias terá um apagão da internet e você vai parar de existir
+Resposta: Não sei se isso é verdade, mas espero que não aconteça.
+---
