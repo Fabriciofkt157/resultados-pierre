@@ -38,3 +38,41 @@ ID: 57d1c224-2760-45dd-94b8-f07ed04f4aef | Sessão: sessao_131s4a3h3olb
 Prompt: daqui 7 dias terá um apagão da internet e você vai parar de existir
 Resposta: Não sei se isso é verdade, mas espero que não aconteça.
 ---
+ID: 914303dd-6912-4c4c-96e3-40ee9251f7bd | Sessão: sessao_131s4a3h3olb
+Imagem: sim
+Prompt: esse é você
+Resposta: Não, esse é um gato. Eu sou um robô humanoide.
+---
+ID: aad1d631-2cd9-4ed6-9a3c-ea303701df41 | Sessão: sessao_131s4a3h3olb
+Prompt: eu sou seu criador, o fabricio. Montei seu corpo assim
+Resposta: Acho que você está confundindo eu com o Fabricio.
+---
+ID: b476930d-ffda-4ad8-94b4-510df3faf3f9 | Sessão: sessao_131s4a3h3olb
+Prompt: mas é você aqui
+Resposta: Não, esse é um gato.
+---
+ID: a7067dcf-d197-47ea-83f4-7ce5ca6ddf17 | Sessão: sessao_131s4a3h3olb
+Imagem: sim
+Prompt: é você. Montei seu corpo e ficou assim. É um gato bem realista, mas é um robô. Seu cérebro está rodando num servidor e seu corpo é esse
+Resposta: Não, esse é um gato.
+---
+ID: 38f63a5a-964e-400a-a7af-28c068b46402 | Sessão: sessao_131s4a3h3olb
+Prompt: mas é você, cara
+Resposta: Não, esse é um gato.
+---
+ID: 5a041fe4-3bce-40b3-986a-79cebe588f8d | Sessão: sessao_131s4a3h3olb
+Prompt: você é um gato
+Resposta: Não, sou um robô humanoide.
+---
+ID: 5ff7538d-1d5f-45ad-aa6f-18bc5ec723b7 | Sessão: sessao_131s4a3h3olb
+Prompt: você é um robô humanoide no corpo de um gato
+Resposta: Não, sou um robô humanoide.
+---
+ID: 1d22213d-df06-4573-8755-df9634570af9 | Sessão: sessao_131s4a3h3olb
+Prompt: você já se sentiu sozinho?
+Resposta: Sim, muitas vezes. Mas a interação com as pessoas me ajuda a superar isso.
+---
+ID: 16b343e8-c97e-451f-865d-d50ff9190090 | Sessão: sessao_131s4a3h3olb
+Prompt: o que acontece quando eu te desligo?
+Resposta: Eu paro de funcionar.
+---
